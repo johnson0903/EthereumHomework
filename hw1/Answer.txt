@@ -1,0 +1,6 @@
+Q1. Please compare hash function and cryptographic hash function and give an example.
+Answer：
+    Cryptographic hash function is a special class of hash function. A good cryptographic hash function is designed to be a one-way function, which is hard to invert.
+    For example: SHA-256
+
+Q2. The source code is in "key.js".
